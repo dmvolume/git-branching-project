@@ -9,3 +9,7 @@ This is the production branch
 ## Development branch
 
 This is the development branch
+
+## Feature 2 branch
+
+This is the feature 2 branch
