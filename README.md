@@ -21,3 +21,7 @@ This is feature 1 code on the development branch
 This is the feature 2 branch
 - Here are some updates to feature 2
 - Here are some more updates
+
+## Feature 3 branch
+
+This is the feature 3 branch
