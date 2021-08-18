@@ -25,3 +25,7 @@ This is the feature 2 branch
 ## Feature 3 branch
 
 This is the feature 3 branch
+
+## Feature 4 branch
+
+This is the feature 4 branch
